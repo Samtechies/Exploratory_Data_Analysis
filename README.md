@@ -1,4 +1,4 @@
-****Weather Data EDA**
+**Weather Data EDA**
 **Overview**
 This repository contains an Exploratory Data Analysis (EDA) of the weather dataset '1. Weather Data.csv'. The goal of this analysis is to uncover key insights, patterns, and trends in weather parameters, with applications in weather prediction, public safety, and more.
 
@@ -10,6 +10,7 @@ This repository contains an Exploratory Data Analysis (EDA) of the weather datas
 4.  Wind Speed (km/h)
 5.  Visibility (km)
 6.  Pressure (kPa)
+
 **Records**: 8,784 observations
 
 **Analysis Objectives**
@@ -21,9 +22,9 @@ This repository contains an Exploratory Data Analysis (EDA) of the weather datas
 -  Anomaly Investigation: Identify and explain unusual patterns.
 
 **Key Insights**
-Seasonal Patterns: Clear fluctuations in temperature and humidity across seasons.
-Outliers: Notable temperature extremes identified, possibly due to weather events or data errors.
-Correlations: Strong positive correlation between temperature and dew point.
+-  Seasonal Patterns: Clear fluctuations in temperature and humidity across seasons.
+-  Outliers: Notable temperature extremes identified, possibly due to weather events or data errors.
+-  Correlations: Strong positive correlation between temperature and dew point.
 
 **Recommendations**
 Further Analysis: Explore long-term trends, multivariate relationships, and potential climate change impacts.
