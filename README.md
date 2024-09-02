@@ -1,5 +1,6 @@
-**Weather Data EDA**
-**Overview**
+ **Weather Data EDA**
+ 
+**Overview**:
 This repository contains an Exploratory Data Analysis (EDA) of the weather dataset '1. Weather Data.csv'. The goal of this analysis is to uncover key insights, patterns, and trends in weather parameters, with applications in weather prediction, public safety, and more.
 
 **Dataset**
